@@ -5,6 +5,7 @@
 		id="com.game.eskillsgame"
 		version="0.0.1">
 	<name>Máire's Memory Game</name>
+<description>I made this game at the Bring IT On IT for girls event</description>
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
